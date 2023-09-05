@@ -1,0 +1,21 @@
+{
+  "name": "My Playlist",
+  "songs": [
+    {
+      "artist": "Spiritbox",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f3/b7/7f/f3b77f53-6231-d82f-8731-6aa84fc6e1fa/4050538920062.jpg/592x592bb.webp",
+      "title": "The Void",
+      "duration": 197,
+      "isFavorite": false,
+      "lyrics": "Test"
+    },
+    {
+      "artist": "Metallica",
+      "art": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/69/f9/05/69f905ed-ff04-58a2-8de2-1b5338745f19/858978005226.png/592x592bb.webp",
+      "title": "Master of Puppets",
+      "duration": 515,
+      "isFavorite": true,
+      "lyrics": "Test"
+    }
+  ]
+}
